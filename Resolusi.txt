@@ -1,3 +1,6 @@
 Project Resolusi
 - Project web
-- Back end
+- Web design
+- Java and React
+- Cloud 
+- Backend
