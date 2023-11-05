@@ -1,0 +1,3 @@
+Project Resolusi
+- Project web
+- Back end
