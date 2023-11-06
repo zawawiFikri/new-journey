@@ -1,7 +1,9 @@
 Roadmap Backend
 - Mysql
 - AWS
+  * Amazon EC2
 - Javascripct
+  * ES6
 - NodeJs
 - Typedcript
 - Redis
