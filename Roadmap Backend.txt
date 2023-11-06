@@ -1,11 +1,11 @@
 Roadmap Backend
 - Mysql
 - AWS
-  * Amazon EC2
+  * LoadBalancing
 - Javascripct
-  * ES6
+  * Framework Javascript
+    ^ React
 - NodeJs
-- Typedcript
 - Redis
 - Kafka
 - Docker
