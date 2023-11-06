@@ -1,0 +1,6 @@
+Roadmap Backend
+- Mysql
+- AWS
+- Javascripct
+- NodeJs
+- Typedcript
