@@ -1,0 +1,11 @@
+Roadmap Backend
+- Mysql
+- AWS
+- Javascripct
+- NodeJs
+- Typedcript
+- Redis
+- Kafka
+- Docker
+- Elasticsearch
+- Kubernetes
