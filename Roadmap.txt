@@ -4,3 +4,8 @@ Roadmap Backend
 - Javascripct
 - NodeJs
 - Typedcript
+- Redis
+- Kafka
+- Docker
+- Elasticsearch
+- Kubernetes
